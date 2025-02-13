@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fang huizhen"
+name = "china-diary"
 version = "0.1.0"
 description = ""
 authors = ["junon-txt <junon.txt@gmail.com>"]
