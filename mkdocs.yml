@@ -36,6 +36,8 @@ extra_javascript:
 
 extra:
   generator: false
+  images_dir: assets/imgs
+  base_url: /china-diary
 
 markdown_extensions:
   - pymdownx.superfences
@@ -44,3 +46,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+plugins:
+  - path_rewriter
