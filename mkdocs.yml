@@ -1,0 +1,46 @@
+site_name: ""
+
+docs_dir: pages
+
+nav:
+  - 索引: index.md
+  - "01": entries/01.md
+  - "02": entries/02.md
+  - "03": entries/03.md
+  - "04": entries/04.md
+  - "05": entries/05.md  
+  - "06": entries/06.md
+
+theme:
+  name: material
+  font:
+    text: "Merriweather"
+    code: "Noto Sans Traditional Chinese"
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.autohide
+    - content.code.annotate
+    - content.tooltips
+    - header.autohide
+
+extra_css:
+  - styles/diary.css
+  - https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css
+
+extra_javascript:
+  - styles/diary.js
+  - styles/carousel-init.js
+  - https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
