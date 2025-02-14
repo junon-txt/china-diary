@@ -10,6 +10,7 @@ nav:
   - "04": entries/04.md
   - "05": entries/05.md  
   - "06": entries/06.md
+  - "07": entries/07.md
 
 theme:
   name: material
