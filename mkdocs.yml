@@ -11,6 +11,7 @@ nav:
   - "05": entries/05.md  
   - "06": entries/06.md
   - "07": entries/07.md
+  - "08": entries/08.md
 
 theme:
   name: material
@@ -47,6 +48,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - footnotes
 
 plugins:
   - path_rewriter

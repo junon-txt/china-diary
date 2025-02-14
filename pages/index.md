@@ -7,3 +7,4 @@
 - [2017/12/05 - En el Lago Oeste de Hángzhōu](entries/05.md)
 - [2017/12/06 - A antes era tu casa](entries/06.md)
 - [2017/12/07 - De segunda mano](entries/07.md)
+- [2017/12/08 - Solo](entries/08.md)
