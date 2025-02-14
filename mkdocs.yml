@@ -12,6 +12,8 @@ nav:
   - "06": entries/06.md
   - "07": entries/07.md
   - "08": entries/08.md
+  - "09": entries/09.md
+  - "10": entries/10.md
 
 theme:
   name: material
