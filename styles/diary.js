@@ -27,4 +27,3 @@ document.addEventListener("DOMContentLoaded", () => {
 
     timeout = setTimeout(hideNav, 3000);
 });
-
